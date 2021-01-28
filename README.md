@@ -1,1 +1,14 @@
-Create a simplified copy of aws-infrastructure to be able to use for testing
+#### README
+Simple module for testing Terraform 0.14 and TUTS
+
+#### Module Purpose
+Simple module for testing Terraform 0.14 and TUTS
+
+#### Input Variables
+None
+
+#### Output Variables
+To be defined
+
+
+
